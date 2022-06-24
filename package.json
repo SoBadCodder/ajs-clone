@@ -1,0 +1,22 @@
+{
+  "name": "ajs-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoBadCodder/ajs-clone.git"
+  },
+  "author": "SoBadCodder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoBadCodder/ajs-clone/issues"
+  },
+  "homepage": "https://github.com/SoBadCodder/ajs-clone#readme",
+  "dependencies": {
+    "@sobadcodder/ajs": "^1.0.0"
+  }
+}
